@@ -13,7 +13,7 @@ while also showcasing your PHP skills.
 - Ensure the code is consistently formatted (using any format you prefer, as long as it is consistent)
 - Ensure all public properties + methods prevent unwanted behavior in the Task + Project classes
 - Ensure all tests pass and meet your standards of good testing (feel free to add/edit/remove tests as you see fit)
-- Ensure any bugs you fix are covered in the tests to prevent them being re-introduced 
+- Ensure any bugs you fix are covered in the tests to prevent them being re-introduced
 
 ### Functional requirements:
 - Must be able to create a new instance of the Project class with a name.
@@ -30,6 +30,7 @@ while also showcasing your PHP skills.
 ### FAQs
 - We expect this test should take 1-2 hours to complete.
 - The test cases and the test data are part of this test, feel free to add/edit/delete them however you wish
+- You should plan for edge cases to any public methods or properties to prevent any logic holes that could break your code
 - You may add/edit/delete any file as part of this test
 - You may make any changes/improvements/assumptions you wish as long as the functional requirements are met
 - You may add/update/remove any composer dependency if needed
