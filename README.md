@@ -7,12 +7,18 @@ This code base is a basic project class which has a collection of tasks which it
 Your job is to bring it up to a modern standard and fix any bugs or potential issues you might find 
 while also showcasing your PHP skills.
 
+> Note: We want to see **your** idea of what good PHP coding looks like, so feel free to make changes as you see fit.
+> 
+> This means changing/adding/removing absolutely anything you want in any of the files in this test or adding any tooling/dependencies you may want to use.
+> 
+> We will grade you based on the files you submit including any unmodified code, tests and test data.
+
 ### Technical requirements:
-- Modernise the code, showcasing your knowledge of the latest and greatest PHP features and patterns where applicable
+- Modernise the code, showcasing your knowledge of the latest and greatest PHP features, syntax and patterns where applicable
 - Use native types instead of docblock where possible
-- Ensure the code is consistently formatted (using any format you prefer, as long as it is consistent)
+- Ensure the code is consistently formatted using any format you prefer and use comments/docblock only when necessary.
 - Ensure all public properties + methods prevent unwanted behavior in the Task + Project classes
-- Ensure all tests pass and meet your standards of good testing (feel free to add/edit/remove tests as you see fit)
+- Ensure all tests pass and meet a high standard (feel free to add/edit/remove tests as you see fit)
 - Ensure any bugs you fix are covered in the tests to prevent them being re-introduced
 
 ### Functional requirements:
